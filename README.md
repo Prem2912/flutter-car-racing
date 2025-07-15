@@ -31,23 +31,12 @@
 - 🧪 **WDM Simulation in Optical Networks** using MATLAB & Optiwave  
 - 🗳 **Logic Voting Machine** simulation on Vivado  
 - ☔ **Automatic Car Wiper System** using Rain Sensor
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=premxyz&show_icons=true&theme=radical" alt="Prem's GitHub stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premxyz&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ---
 
 ### 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/your-link)
-- 📧 Email: your.email@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/prem-suryavanshi-364ba6230/)
+- 📧 Email: suryavanshiprem03@gmail.com
 - 🌐 Portfolio (coming soon)
 
 ---
